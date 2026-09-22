@@ -1,0 +1,20 @@
+方法 说明
+st.sidebar.title()标题
+st.sidebar.header()头部
+st.sidebar.markdown() Markdown
+st.sidebar.write()通用写入
+st.sidebar.selectbox()下拉选择
+st.sidebar.multiselect()多选
+st.sidebar.slider()滑块
+st.sidebar.text_input()文本输入
+st.sidebar.number_input()数字输入
+st.sidebar.checkbox()复选框
+st.sidebar.radio()单选
+st.sidebar.button()按钮
+st.sidebar.file_uploader()文件上传
+st.sidebar.date_input()日期
+st.sidebar.time_input()时间
+st.sidebar.success/warning/error/info()提示信息
+st.sidebar.divider()分割线
+st.sidebar.image()图片
+st.sidebar.json() JSON 展示

@@ -1,0 +1,13 @@
+{
+  "name": "张三",
+  "age": 18,
+  "gender": "男",
+  "city": "北京",
+  "is_student": true,
+  "hobbies": [
+    "阅读",
+    "运动",
+    "旅行"
+  ],
+  "score": null
+}

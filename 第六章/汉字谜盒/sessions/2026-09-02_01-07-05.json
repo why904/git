@@ -1,0 +1,21 @@
+{
+  "current_session": "2026-09-02_01-07-05",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！来猜一个字谜：“一加一不是二”（打一字）。"
+    },
+    {
+      "role": "user",
+      "content": "来"
+    },
+    {
+      "role": "assistant",
+      "content": "不对哦，再想想~ 两个“一”夹着“十”能组成什么？"
+    }
+  ]
+}
